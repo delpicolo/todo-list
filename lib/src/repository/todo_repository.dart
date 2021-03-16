@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:todo_list/model/todo_model.dart';
+import 'package:todo_list/src/models/todo_model.dart';
 
 class TodoRepository {
   Dio dio;

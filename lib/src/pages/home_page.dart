@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/controllers/home_controller.dart';
+import 'package:todo_list/src/controllers/home_controller.dart';
 
 class HomePage extends StatefulWidget {
   @override

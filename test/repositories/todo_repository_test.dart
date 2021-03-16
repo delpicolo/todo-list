@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
-import 'package:todo_list/repository/todo_repository.dart';
+import 'package:todo_list/src/repository/todo_repository.dart';
 
 class DioMock extends Mock implements Dio {}
 
