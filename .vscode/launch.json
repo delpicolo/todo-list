@@ -8,12 +8,6 @@
       "name": "todo_list",
       "request": "launch",
       "type": "dart"
-    },
-    {
-      "name": "todo_list",
-      "cwd": "todo_list",
-      "request": "launch",
-      "type": "dart"
     }
   ]
 }
